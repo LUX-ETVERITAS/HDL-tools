@@ -1,4 +1,5 @@
-# HDL-tools
+# HDL Tools Bucket
+
 <p align="center">
   Languages:
   <a href="./docs/README_zh_cn.md">简体中文</a> ·
