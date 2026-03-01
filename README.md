@@ -4,10 +4,9 @@
   Languages:
   <a href="./docs/README_zh_cn.md">简体中文</a> ·
 </p>
+
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen)
-
-[TOC]
 
 hdl-tools-bucket is a Scoop bucket that provides a curated collection of tools for HDL development, including Verilog, SystemVerilog, and FPGA workflows.
 
