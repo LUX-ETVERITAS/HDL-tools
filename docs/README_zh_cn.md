@@ -3,8 +3,6 @@
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen)
 
-[TOC]
-
 hdl-tools-bucket 是一个面向 HDL 开发的 Scoop 软件仓库，收录与 Verilog、SystemVerilog 以及 FPGA 开发流程相关的工具集合。
 
 本仓库主要包括：
